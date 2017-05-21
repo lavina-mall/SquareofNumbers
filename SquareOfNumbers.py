@@ -10,5 +10,5 @@ def SquareOfNumbers(n):
 		print (dict)
 	return
 
-n = eval(input("Enter a Number (1-100): ")) # n = The user input
+n = input("Enter a Number (1-100): ")
 SquareOfNumbers(n)
